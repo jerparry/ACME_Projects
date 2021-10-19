@@ -1,0 +1,28 @@
+10/16/21 12:46
+
+Kmeans class (21 points):
+Score += 21
+
+Fire stations (8 points):
+Compute clusters for multiple values of p. Determine which p value keeps the maximum distance from the centers small.
+Score += 5
+
+Earthquakes (8 points):
+Not implemented
+Score += 0
+
+Images (8 points):
+Not implemented
+Score += 0
+
+Code quality (5 points):
+Score += 5
+
+Total score: 31/50 = 62.0%
+
+
+Comments:
+	Good job so far, keep it up
+
+-------------------------------------------------------------------------------
+
